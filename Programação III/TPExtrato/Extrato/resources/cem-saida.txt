@@ -1,0 +1,171 @@
+Número da conta: 491
+----------------------------------------
+Detalhes das Transações:
+----------------------------------------
+Tipo          | Valor  | Saldo
+----------------------------------------
+Pagamento     | 451    | -451
+Saque         | 677    | -1128
+Pagamento     | 549    | -1677
+Depósito      | 612    | -1065
+Pagamento     | 821    | -1886
+Saque         | 663    | -2549
+Depósito      | 86     | -2463
+Depósito      | 1056   | -1407
+Depósito      | 721    | -686
+Pagamento     | 816    | -1502
+Pagamento     | 1062   | -2564
+Pagamento     | 928    | -3492
+Depósito      | 511    | -2981
+Saque         | 882    | -3863
+----------------------------------------
+Saldo Atual: -3863
+
+Número da conta: 593
+----------------------------------------
+Detalhes das Transações:
+----------------------------------------
+Tipo          | Valor  | Saldo
+----------------------------------------
+Pagamento     | 654    | -654
+Pagamento     | 683    | -1337
+Pagamento     | 624    | -1961
+Pagamento     | 596    | -2557
+Pagamento     | 716    | -3273
+Pagamento     | 591    | -3864
+Saque         | 748    | -4612
+Depósito      | 824    | -3788
+Depósito      | 570    | -3218
+Pagamento     | 517    | -3735
+Saque         | 445    | -4180
+Saque         | 428    | -4608
+----------------------------------------
+Saldo Atual: -4608
+
+Número da conta: 809
+----------------------------------------
+Detalhes das Transações:
+----------------------------------------
+Tipo          | Valor  | Saldo
+----------------------------------------
+Saque         | 646    | -646
+Saque         | 207    | -853
+Saque         | 553    | -1406
+Pagamento     | 886    | -2292
+Depósito      | 328    | -1964
+Pagamento     | 371    | -2335
+Pagamento     | 186    | -2521
+Saque         | 900    | -3421
+Pagamento     | 280    | -3701
+Pagamento     | 620    | -4321
+Saque         | 700    | -5021
+Pagamento     | 918    | -5939
+Depósito      | 955    | -4984
+Saque         | 954    | -5938
+----------------------------------------
+Saldo Atual: -5938
+
+Número da conta: 405
+----------------------------------------
+Detalhes das Transações:
+----------------------------------------
+Tipo          | Valor  | Saldo
+----------------------------------------
+Depósito      | 404    | 404
+Depósito      | 698    | 1102
+Saque         | 843    | 259
+Saque         | 667    | -408
+Pagamento     | 378    | -786
+Saque         | 780    | -1566
+Saque         | 314    | -1880
+Depósito      | 461    | -1419
+Saque         | 540    | -1959
+Pagamento     | 440    | -2399
+Saque         | 773    | -3172
+Pagamento     | 343    | -3515
+Depósito      | 119    | -3396
+Pagamento     | 302    | -3698
+Depósito      | 367    | -3331
+----------------------------------------
+Saldo Atual: -3331
+
+Número da conta: 368
+----------------------------------------
+Detalhes das Transações:
+----------------------------------------
+Tipo          | Valor  | Saldo
+----------------------------------------
+Saque         | 496    | -496
+Pagamento     | 921    | -1417
+Saque         | 387    | -1804
+Saque         | 579    | -2383
+Depósito      | 904    | -1479
+Depósito      | 693    | -786
+Depósito      | 620    | -166
+Pagamento     | 624    | -790
+Pagamento     | 609    | -1399
+Depósito      | 14     | -1385
+Pagamento     | 585    | -1970
+Pagamento     | 489    | -2459
+Pagamento     | 737    | -3196
+----------------------------------------
+Saldo Atual: -3196
+
+Número da conta: 1529
+----------------------------------------
+Detalhes das Transações:
+----------------------------------------
+Tipo          | Valor  | Saldo
+----------------------------------------
+Saque         | 586    | -586
+Saque         | 256    | -842
+Depósito      | 589    | -253
+Pagamento     | 908    | -1161
+Depósito      | 667    | -494
+Pagamento     | 319    | -813
+Pagamento     | 202    | -1015
+Pagamento     | 570    | -1585
+Pagamento     | 1072   | -2657
+Pagamento     | 529    | -3186
+Saque         | 628    | -3814
+----------------------------------------
+Saldo Atual: -3814
+
+Número da conta: 258
+----------------------------------------
+Detalhes das Transações:
+----------------------------------------
+Tipo          | Valor  | Saldo
+----------------------------------------
+Saque         | 806    | -806
+Depósito      | 577    | -229
+Depósito      | 760    | 531
+Depósito      | 746    | 1277
+Pagamento     | 827    | 450
+Depósito      | 869    | 1319
+Depósito      | 654    | 1973
+Pagamento     | 628    | 1345
+Saque         | 490    | 855
+Saque         | 578    | 277
+Saque         | 674    | -397
+Pagamento     | 618    | -1015
+Saque         | 812    | -1827
+----------------------------------------
+Saldo Atual: -1827
+
+Número da conta: 148
+----------------------------------------
+Detalhes das Transações:
+----------------------------------------
+Tipo          | Valor  | Saldo
+----------------------------------------
+Pagamento     | 844    | -844
+Pagamento     | 1068   | -1912
+Saque         | 402    | -2314
+Depósito      | 645    | -1669
+Depósito      | 486    | -1183
+Depósito      | 1027   | -156
+Pagamento     | 962    | -1118
+Pagamento     | 760    | -1878
+----------------------------------------
+Saldo Atual: -1878
